@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/cli"
+	"github.com/hashicorp/clic"
 )
 
 func TestMain_cliArgsFromEnv(t *testing.T) {
